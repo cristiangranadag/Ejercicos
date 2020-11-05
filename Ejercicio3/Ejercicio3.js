@@ -7,4 +7,4 @@ anos = 2020 - anoNaci;
 
 alert("Usted tiene "+anos+" años");
 document.write("Usted tiene "+anos+" años");
-console.log("Usted tiene "+anos+" años")
+console.log("Usted tiene "+anos+" años")        
